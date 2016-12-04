@@ -1,4 +1,4 @@
-#04.12.2016 03:51:53 UTC
+###04.12.2016 03:51:53 UTC
 __________________________
 *Power Wall (7703): Updated 'desc': (see databaseupdater_changelog.txt)*  
 `old:` When you would take battle damage from an opponent's attacking monster, during damage calculation: Send 1 card from the top of your Deck to the Graveyard for every 500 damage you would haven taken, and if you do, make the battle damage you take from this battle 0.  
