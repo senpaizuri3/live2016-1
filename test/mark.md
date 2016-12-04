@@ -1,2 +1,2 @@
-`old:` During your Standby Phase: You can banish this card from your Graveyard, then target 2 Level 4 or lower "Predaplant" monsters in your Graveyard; Special Summon them, also you cannot Normal or Special Summon monsters for the rest of this turn, except by Fusion Summon.  
-`new:` During your Standby Phase: You can banish this card from your Graveyard, then target 2 Level 4 or lower "Predaplant" monsters in your Graveyard; Special Summon them, also you cannot Normal `Summon/S`e`t or Special Summon `o`ther mons`te`rs for the rest of` `this turn, except Fusion Monste`rs.
+`old:` Special Summon them, also you cannot Normal or Special Summon monsters for the rest of this turn, except `by` Fusion `Summon.`  
+`new:` Special Summon them, also you cannot Normal `Summon/Set` or Special Summon `other` monsters for the rest of this `entire` turn, except Fusion `Monsters.`
