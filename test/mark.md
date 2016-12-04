@@ -1,8 +1,4 @@
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-\[ Monster Effect \]  
-If a card(s) you control is destroyed by battle or card effect while this card is in your hand: You can Special Summon this card, then  
-  
-  
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-\[ Monster Effect \]  
-(This card is always treated as a "Fusion Dragon" card.)  
+`old:` 2 or more Level 9 monsters  
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then declare 1 Attribute; for the rest of this turn, face\-up monsters on the field become the declared Attribute, monsters **`-your opponent controls with that Attribute cannot activate their effects, also they cannot attack. If you would destroy monsters with the effect of a "True Draco" or "True King" monster`** **`-in`** your hand, you can also destroy monsters your opponent controls.  
+`new:` 2 or more Level 9 monsters  
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then declare 1 Attribute; for the rest of this turn, face\-up monsters on the field become the declared Attribute, monsters **`+opponent's possession with that Attribute cannot activate their effects, also they cannot attack. If you would destroy monsters with the effect of a "True Draco" or "True King" monster in`**nster in your hand, you can also destroy monsters your opponent controls.  
