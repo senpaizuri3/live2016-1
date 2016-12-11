@@ -146,3 +146,5 @@ __________________________
 ● 2:`** Banish all **`+other`** cards on the **`+field.  
 ● 3`** or more: Banish all **`+other`** cards on the field and in the **`+Graveyards.`**    
   
+###12-11-2016T13:11:26.972Z  
+  
