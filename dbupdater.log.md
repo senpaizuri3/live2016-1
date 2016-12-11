@@ -18,3 +18,5 @@ __________________________
 `old:` When this card declares an attack: It gains **`-600`** ATK. During either player's turn: You can target 1 face\-up monster your opponent controls; it loses ATK equal to this card's ATK, then banish this card until the Standby Phase of the next turn. This ATK decrease lasts until the end of this turn. You can only use this effect of "Diabound Kernel" once per turn.  
 `new:` When this card declares an attack: It gains **`+?00`** ATK. During either player's turn: You can target 1 face\-up monster your opponent controls; it loses ATK equal to this card's ATK, then banish this card until the Standby Phase of the next turn. This ATK decrease lasts until the end of this turn. You can only use this effect of "Diabound Kernel" once per turn.    
   
+###12-11-2016T16:59:43.931Z  
+  
