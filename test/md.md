@@ -1,7 +1,9 @@
 # Simon
 
 #### **`Commands`**
+```
 * [Searching a card](#searching-a-card)
+```
 
 ##### **Searching a card**
 ---
