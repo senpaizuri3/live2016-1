@@ -5,9 +5,9 @@
 #### --- **`Table of Contents:`** ---
 - [Searching a card](#commands)
 
-#### **`Commands`**
+#### **`Commands`** [#](#commands)
 
->**Searching a card:** [#](#commands)
+>**Searching a card:**
 You can type either `<card_name>` or `{card_name}` to search for a Yugioh card.
 `<>`:
 `{}`:
