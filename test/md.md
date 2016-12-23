@@ -14,7 +14,7 @@
 Searching with `{}` instead of `<>` results in a more compact response.
 
 *`<Kuriboh>` gives the following result:*  
-![Kuriboh](http://image.prntscr.com/image/72822c5ccc7c452e939ca83d5627f431.png)
+[![Kuriboh](http://image.prntscr.com/image/72822c5ccc7c452e939ca83d5627f431.png)]()
 
 >The following languages are available:  
 English (en), German (de), French (fr), Italian (it), Spanish (es), Japanese (ja), Chinese (ch) and Taiwanese (tw).  
