@@ -1,1 +1,1 @@
-<img src="https://github.com/favicon.ico" width="48">
+<img src="http://i.imgur.com/OPU9N1O.png" width="48">
