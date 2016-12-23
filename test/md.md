@@ -7,7 +7,7 @@
 
 #### **`Commands`**
 
->**Searching a card:**
+>**Searching a card:** [#](#commands)
 You can type either `<card_name>` or `{card_name}` to search for a Yugioh card.
 `<>`:
 `{}`:
