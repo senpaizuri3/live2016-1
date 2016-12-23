@@ -5,6 +5,7 @@
 * [```Searching cards```](#searching-cards)
 * [```Opening packs```](#opening-packs)
 * [```Trivia Game```](#trivia-game)
+* [```Trivia Game```](#scripting)
 
 ---
 
@@ -14,7 +15,7 @@
 Searching with `{}` instead of `<>` results in a more compact response.
 
 *`<Kuriboh>` gives the following result:*  
-[![Kuriboh](http://image.prntscr.com/image/72822c5ccc7c452e939ca83d5627f431.png)]()
+![Kuriboh](http://image.prntscr.com/image/72822c5ccc7c452e939ca83d5627f431.png)
 
 >The following languages are available:  
 English (en), German (de), French (fr), Italian (it), Spanish (es), Japanese (ja), Chinese (ch) and Taiwanese (tw).  
@@ -50,3 +51,23 @@ Only the creator of the game and certain roles or users whitelisted in the serve
 Alias. `.tq`  
 
 `.t 10` starts a game that ends when someone reached 10 points:  
+![Trivia Game](http://image.prntscr.com/image/cb10fe5dd1a04dfcbd2ff0ef08892d46.png)
+
+---
+
+### Scripting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
