@@ -1,4 +1,5 @@
 # **Simon**
+*All commands are case-insensitive.*
 
 ### Commands
 * [```Searching cards```](#searching-cards)
@@ -29,3 +30,4 @@ Format: `TCG` or `OCG` (Default: `TCG`)
 Language: `en`, `de`, `fr`, `it`, `es`, `ja` or `cn` (Default: `en`)  
 Alias: `.po`  
 
+`.po Breakers`
