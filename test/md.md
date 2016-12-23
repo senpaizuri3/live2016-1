@@ -35,6 +35,8 @@ Alias: `.po`
 `.po Breakers of Shadow` opens a pack with nine random cards, containing one holo, one rare and seven common cards:  
 ![Breakers of Shadow](http://image.prntscr.com/image/8d66b367c27d46b29e184cfcac39077b.png)
 
+---
+
 ### **Trivia Game**
 
 >**Type `.trivia [format] [end_score]` to play the trivia game.**  
