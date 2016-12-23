@@ -3,7 +3,7 @@
 [![Simon](http://i.imgur.com/OPU9N1O.png)](https://nodesource.com/products/nsolid)
 
 #### --- **`Table of Contents:`** ---
-- [Searching a card](#searching%20a%20card)
+- [Searching a card](#searching-a-card)
 
 
 #### **`Commands`**
