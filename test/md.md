@@ -1,11 +1,11 @@
 # Simon
 
-#### **`Table of Contents`**
+### **`Table of Contents`**
 * [Searching a card](#searching-a-card)
 
-#### **`Commands`**
+### **`Commands`**
 
-##### **Searching a card**
+#### **Searching a card**
 ---
 You can type either `<card_name>` or `{card_name}` to search for a Yugioh card.  
 *`<Kuriboh>` gives the following result:*  
