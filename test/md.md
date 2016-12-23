@@ -8,16 +8,16 @@
 
 ### **Searching cards**
 
-Type `<card_name[, input_language][, output_language]>` to search for a Yu-Gi-Oh! card.  
+>Type `<card_name[, input_language][, output_language]>` to search for a Yu-Gi-Oh! card.  
 Searching with `{}` instead of `<>` results in a more compact response.
 
->*`<Kuriboh>` gives the following result:*  
+*`<Kuriboh>` gives the following result:*  
 ![Kuriboh](http://image.prntscr.com/image/72822c5ccc7c452e939ca83d5627f431.png)
 
-The following languages are available:  
+>The following languages are available:  
 English (en), German (de), French (fr), Italian (it), Spanish (es), Japanese (ja), Chinese (ch) and Taiwanese (tw).  
 
->*`<Bunilla, en, ja>` accesses the japanese database by only giving the english card name:*  
+*`<Bunilla, en, ja>` accesses the japanese database by only giving the english card name:*  
 ![Kuriboh](http://image.prntscr.com/image/43b3519b8db24684a14c25092d74bf4d.png)
 
 ---
