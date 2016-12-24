@@ -2,14 +2,14 @@
 *All commands are case-insensitive.*
 
 ### Commands
-* [```Searching cards```](#searching-cards)
-* [```Opening packs```](#opening-packs)
+* [```Card Search```](#card-search)
+* [```Pack Opening```](#pack-opening)
 * [```Trivia Game```](#trivia-game)
-* [```Trivia Game```](#scripting)
+* [```Scripting Library```](#scripting-library)
 
 ---
 
-### **Searching cards**
+### **Card Search**
 
 >**Type `<card_name[, input_language][, output_language]>` to search for a Yu-Gi-Oh! card.**  
 Searching with `{}` instead of `<>` results in a more compact response.
@@ -25,7 +25,7 @@ English (en), German (de), French (fr), Italian (it), Spanish (es), Japanese (ja
 
 ---
 
-### **Opening packs**
+### **Pack Opening**
 
 >**Type `.packopen [format] [language] [pack_name]` to open a pack.**  
 Format: `TCG` or `OCG` (Default: `TCG`)  
@@ -55,19 +55,5 @@ Alias. `.tq`
 
 ---
 
-### Scripting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Scripting Library
 
