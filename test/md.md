@@ -1,5 +1,5 @@
 # **Simon**
-[![YGOPro Percy](http://i.imgur.com/v732Scx.png)](https://discord.gg/XMTrt43)
+[![YGOPro Percy](http://i.imgur.com/v732Scx.png)](https://discord.gg/Rae2vZV)
 
 *All commands are case-insensitive.*  
 ### Commands
@@ -62,14 +62,21 @@ Alias. `.tq`
 If you are interested in scripting Yu-Gi-Oh! cards join the `scripting_lua_101` channel on the YGOPro Percy server.  
 An Invitation link can be found at the top of this file.  
 
->**Type `.function [keywords]`** to search for a Lua function.  
-Keywords: The words that the your function contains.
+>**Type `.function [keyword]`** to search for a YGOPro Lua function.  
+Keyword: The word that the your function contains.  
 Alias: `.f`  
+The result is formatted like this: `[index] return_type | function_name(params)`.  
 
 `.function draw`:
+![Function](http://image.prntscr.com/image/357524c4c9c547babd3d8178b752410c.png)
 
+>**Type `.constant [keyword]`** to search for a YGOPro Lua constant.  
+Keyword: The word that the your constant contains.  
+Alias: `.c`  
+The result is formatted like this: `[index] hex_code | constant_name`.  
 
-
+`.constant effect`:
+![Constant](http://image.prntscr.com/image/70427f3c334b49bb972258397f41c4fd.png)
 
 
 
