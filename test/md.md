@@ -78,7 +78,7 @@ The result is formatted like this: `[index] hex_code | constant_name`.
 `.constant effect`:  
 ![Constant](http://image.prntscr.com/image/70427f3c334b49bb972258397f41c4fd.png)
 
-
+--
 
 
 
