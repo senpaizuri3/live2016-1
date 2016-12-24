@@ -33,7 +33,7 @@ Language: `en`, `de`, `fr`, `it`, `es`, `ja` or `cn` (Default: `en`)
 Pack name: The name of any Yu-Gi-Oh! pack.
 Alias: `.po`  
 
-`.po Breakers of Shadow` opens a pack with nine random cards, containing one holo, one rare and seven common cards:  
+*`.po Breakers of Shadow` opens a pack with nine random cards, containing one holo, one rare and seven common cards:*  
 ![Breakers of Shadow](http://image.prntscr.com/image/8d66b367c27d46b29e184cfcac39077b.png)
 
 ---
@@ -50,8 +50,8 @@ Alias: `.t`
 Only the creator of the game and certain roles or users whitelisted in the server config are permitted to do this.  
 Alias. `.tq`  
 
-`.t 10` starts a game that ends when someone reached 10 points:  
-![Trivia Game](http://image.prntscr.com/image/cb10fe5dd1a04dfcbd2ff0ef08892d46.png)
+*`.t 10` starts a game that ends when someone reached 10 points:*  
+![Trivia Game](http://image.prntscr.com/image/9f22ade0b6f14bbe8757440d52f60419.png)
 
 ---
 
