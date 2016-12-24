@@ -70,6 +70,8 @@ The result is formatted like this: `[index] return_type | function_name(params)`
 `.function draw`:  
 ![Function](http://image.prntscr.com/image/357524c4c9c547babd3d8178b752410c.png)
 
+--
+
 >**Type `.constant [keyword]`** to search for a YGOPro Lua constant.  
 Keyword: The word that the your constant contains.  
 Alias: `.c`  
