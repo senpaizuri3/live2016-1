@@ -67,7 +67,7 @@ Keyword: The word that the your function contains.
 Alias: `.f`  
 The result is formatted like this: `[index] return_type | function_name(params)`.  
 
-`.function draw`:
+`.function draw`:  
 ![Function](http://image.prntscr.com/image/357524c4c9c547babd3d8178b752410c.png)
 
 >**Type `.constant [keyword]`** to search for a YGOPro Lua constant.  
@@ -75,7 +75,7 @@ Keyword: The word that the your constant contains.
 Alias: `.c`  
 The result is formatted like this: `[index] hex_code | constant_name`.  
 
-`.constant effect`:
+`.constant effect`:  
 ![Constant](http://image.prntscr.com/image/70427f3c334b49bb972258397f41c4fd.png)
 
 
